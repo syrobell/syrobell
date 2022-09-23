@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/syrobell" target="blank"><img src="https://img.shields.io/twitter/follow/syrobell?logo=twitter&style=for-the-badge" alt="syrobell" /></a> </p>
 
-- 🌱 I’m currently learning **React, CSS, Javascript, Vue.js**
+- 🌱 I’m currently learning **React, CSS, Javascript, Vue.js, Solidity**
 
 - 📫 How to reach me **adnandedeogluu@gmail.com**
 
